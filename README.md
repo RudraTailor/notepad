@@ -1,6 +1,5 @@
-:
-
 📝 Notepad Application
+
 Welcome to the Notepad Application project! 🎉 This project is focused on creating a simple yet powerful notepad 🗒️ that makes it easy for users to create, edit, and save text files. The notepad offers a range of features for a personalized, streamlined writing experience. ✨
 
 🚀 Features
