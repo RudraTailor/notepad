@@ -10,6 +10,7 @@ Welcome to the Notepad Application project! 🎉 This project is focused on crea
 🎨 Switch between color themes to match your style
 🖌️ Intuitive interface for quick note-taking ✍️ and text editing
 🎯 Project Goals
+
 This notepad application will allow users to:
 
 ✍️ Create and edit plain text files
